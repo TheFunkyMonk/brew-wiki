@@ -1,0 +1,19 @@
+// Brewery
+{
+	"name": "",
+	"location": [
+		{
+			"name": "",
+			"address": "",
+			"type": "e.g. taphouse",
+			"hours": [
+				{
+					"day": [],
+					"time": []
+				}
+			],
+			"description": "",
+			"tags": []
+		}
+	]
+}

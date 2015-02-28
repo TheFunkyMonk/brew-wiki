@@ -1,0 +1,46 @@
+// Beer
+{
+	"name": "",
+	"description": "",
+	"style": "",
+	"abv": "",
+	"brewery": {
+		"name": "",
+		"location": [
+			{
+				"name": "",
+				"address": "",
+				"type": "",
+				"hours": [
+					{
+						"day": [],
+						"time": []
+					}
+				],
+				"description": "",
+				"tags": []
+			}
+		]
+	},
+	"rating": "",
+	"container": {
+		"type": "",
+		"size": ""
+	},
+	"location": [
+		{
+			"name": "",
+			"address": "",
+			"type": "",
+			"hours": [
+				{
+					"day": [],
+					"time": []
+				}
+			],
+			"description": "",
+			"tag": []
+		}
+	],
+	"tag": []
+}

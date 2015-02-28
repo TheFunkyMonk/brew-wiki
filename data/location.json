@@ -1,0 +1,14 @@
+// Location
+{
+	"name": "",
+	"address": "",
+	"type": "",
+	"hours": [
+		{
+			"day": [],
+			"time": []
+		}
+	],
+	"description": "",
+	"tags": []
+}
