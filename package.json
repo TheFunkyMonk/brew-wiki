@@ -1,0 +1,48 @@
+{
+  "name": "brew-wiki",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "author": {
+    "name": "Jesse Weed",
+    "email": "jesse@jesseweed.com",
+    "url": "http://jesseweed.com",
+    "twitter": "https://twitter.com/jesseweed"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "repository": "",
+  "bugs": "",
+  "keywords": [
+    "node",
+    "io",
+    "koa",
+    "mvc",
+    "framework",
+    "pog",
+    "js",
+    "rest",
+    "api",
+    "app"
+  ],
+  "dependencies": {
+    "colors": "^1.0.3",
+    "koa-hbs": "^0.5.0",
+    "koa-jade": "latest",
+    "koa-less": "0.0.3",
+    "koa-static": "^1.4.9",
+    "koa-stylus": "0.0.3",
+    "koajs-nunjucks": "^1.0.1",
+    "koala": "^0.9.1",
+    "mongoose": "^3.8.24",
+    "pog-router": "0.0.6",
+    "sequelize": "^2.0.3",
+    "superagent": "^0.21.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-nodemon": "^1.0.5"
+  },
+  "contributors": "",
+  "licenses": ""
+}
