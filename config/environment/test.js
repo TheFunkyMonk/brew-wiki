@@ -7,8 +7,8 @@ module.exports = function (app) {
 
   // global settings
   app.domain = 'brewwikitest.herokuapp.com';
-  app.environment = 'test';
-  app.url = app.config.protocol + app.domain + '/'; // base url
+  app.env = 'test';
+  app.address = app.config.protocol + app.domain + '/'; // base url
 
   // directories
   app.dir = {
