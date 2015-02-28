@@ -33,6 +33,7 @@
     "koa-hbs": "^0.5.0",
     "koa-jade": "latest",
     "koa-less": "0.0.3",
+    "koa-redis": "^1.0.0",
     "koa-static": "^1.4.9",
     "koa-stylus": "0.0.3",
     "koajs-nunjucks": "^1.0.1",
